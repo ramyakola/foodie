@@ -2,7 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Header from './header';
+import Items from './items';
 import reportWebVitals from './reportWebVitals';
+import Categories from './categories';
 
 ReactDOM.render(
   <React.StrictMode>
